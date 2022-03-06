@@ -11,9 +11,11 @@ public class Even {
 		System.out.print(i + " \n ");  
 		}  		
 		}  
-		
-		// test commit 
 
+	}
+	
+	int methodd2() {
+	return 2; 
 	}
 
 }
