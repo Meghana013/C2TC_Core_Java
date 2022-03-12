@@ -12,11 +12,7 @@ public class Even {
 		}  		
 		}  
 
-		
-	}
-	
-	int methodd2() {
-	return 2; 
+		 
 	}
 
 }
