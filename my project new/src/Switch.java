@@ -53,7 +53,7 @@ public class Switch {
 			System.out.println("Happpy");
 			break;
 			
-		case 100: 
+		case 100:
 			System.out.println("womens");
 			break;
 		default:
