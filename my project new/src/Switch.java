@@ -15,7 +15,7 @@ public class Switch {
 		//2nd Example
 		
 		System.out.println("\n 2nd program");
-		int z=10; //z is vaeriable not a constant
+		int z=10; //z is variable not a constant
 		final int y=20; //y is constant because here we declared as final
 		switch(z)
 		{
