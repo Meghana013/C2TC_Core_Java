@@ -89,7 +89,7 @@ public class Switch {
 			System.out.println(2);
 			
 		default:
-			System.out.println("default"); 
+			System.out.println("default");
 		}
 		
 	}
