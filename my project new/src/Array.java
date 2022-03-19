@@ -18,14 +18,23 @@ public class Array {
 		
 		System.out.println(x[0][1][2]);
 		
-		System.out.println(x[1][0][2]);
+		System.out.println(x[1][0][1]);
 		
 		System.out.println(x[1][1][1]);
 		
-		System.out.println(x[1][2][0]);
+		System.out.println(x[1][1][0]);
 		
-		System.out.println(x[2][1][0]);
-	
+		System.out.println(x[1][1][0]);
+		
+		
+		int[][] y=new int[2][3];
+		
+		System.out.println(y);
+		System.out.println(y[0]);
+		System.out.println(y[0][0]);
+		System.out.println(y[0][1]);
+		System.out.println(y[1][0]);
+		System.out.println(y[1][1]);
 	}
 
 }

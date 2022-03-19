@@ -15,12 +15,22 @@ public class While {
 		
 		int a=10;
 		int b=15;
-		while(a<b)
+		while(a<=b)
 		{
 			System.out.println("Good");
+			a++;
 		}
 		
-		System.out.println("Good morning");
+		
+		
+//3rd program		
+		int m = 11;
+		do
+		{
+			System.out.println(m);
+			m++;
+		}while(m<=1);
+
 	}
 
 }
